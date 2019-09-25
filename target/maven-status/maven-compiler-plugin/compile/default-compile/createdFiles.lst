@@ -1,0 +1,8 @@
+nu\te4\menuserver\entities\Menu.class
+nu\te4\menuserver\resources\MenuResource.class
+nu\te4\menuserver\beans\MenuBean.class
+nu\te4\menuserver\entities\Dish.class
+nu\te4\menuserver\resources\JavaEE8Resource.class
+nu\te4\menuserver\entities\Meal.class
+nu\te4\menuserver\ConnectionFactory.class
+nu\te4\menuserver\JAXRSConfiguration.class
